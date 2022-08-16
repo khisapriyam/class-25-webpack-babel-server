@@ -1,0 +1,29 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "name" : "ALu",
+            "price" : 1200,
+            "photoo" : "https://pbs.twimg.com/media/B0i2obMCUAApfpS.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "Potol",
+            "price" : 200,
+            "photoo" : "https://data.whicdn.com/images/221556276/original.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "Amm",
+            "price" : 2200,
+            "photoo" : "https://data.whicdn.com/images/221556276/original.jpg"
+        },
+        {
+            "id" : 4,
+            "name" : "Kola",
+            "price" : 400,
+            "photoo" : "https://afamilycdn.com/150157425591193600/2022/2/20/ce3660d3f4191e212dafe5893c8c3108-16453453404551933521543.jpg"
+        }
+    ]
+    
+}
